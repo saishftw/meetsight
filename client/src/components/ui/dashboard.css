@@ -1,0 +1,23 @@
+.dashboard-header {
+    height: 3rem;
+}
+
+.dashboard-container {
+    height: calc(100% - 3rem);
+}
+
+.text-highlight {
+    background-color: #ffdc9b;
+    /* Change this to your desired highlight color */
+    /* color: black; */
+    /* Optional: Adjust text color for better contrast */
+    padding: 5px;
+    /* border-radius: 4px; */
+    margin-bottom: 4px;
+    /* Add some padding for better visibility */
+}
+
+#scrollViewport>div {
+    display: block !important;
+    width: 100% !important;
+}

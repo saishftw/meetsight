@@ -1,0 +1,4 @@
+.chat-message > ul > li {
+    width: 100%;
+    /* flex-wrap: nowrap; */
+}
